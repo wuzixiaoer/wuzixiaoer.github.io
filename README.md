@@ -12,7 +12,7 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
 
 
 ### Publications
-```
+```markdown
 1. Rongrong Wang, Haiyong Luo, Qu Wang, Zhaohui Li, Fang Zhao, Jingyu Huang. 
    A Spatial-Temporal positioning algorithm Using Residual Network and LSTM. 
    IEEE Transactions on Instrumentation and Measurement, 2020.
@@ -25,7 +25,7 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
 
 
 ### Projects
-```
+```markdown
 1. **[Efficient Deep Painterly Harmonization]**(https://github.com/wuzixiaoer/MuseBrush.git)          2019                    
    A WeChat Mini Program for painterly harmonization                                                               
    • Image matting
