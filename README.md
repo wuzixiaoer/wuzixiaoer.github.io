@@ -1,5 +1,5 @@
 ## Biography
-![Image](https://tva1.sinaimg.cn/small/007S8ZIlly1gfhhs7jto9j30aa0bndgn.jpg)
+![Image](https://tva1.sinaimg.cn/small/007S8ZIlly1gfhhs7jto9j30aa0bndgn.jpg){:height="50%" width="50%"}
 
 I am a second-year CS master student at Beijing University of Posts and Telecommunications (BUPT) and co-advised by Prof. [Haiyong Luo](http://people.ucas.ac.cn/~luohaiyong) and Prof. Fang Zhao.
 
@@ -26,19 +26,19 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
 
 ### Projects
 ```markdown
-1. [Efficient Deep Painterly Harmonization](https://github.com/wuzixiaoer/MuseBrush.git)          2019                    
+1. [Efficient Deep Painterly Harmonization](https://github.com/wuzixiaoer/MuseBrush)          2019                    
    A WeChat Mini Program for painterly harmonization                                                               
    • Image matting
    • An encoder self-attention decoder network to style transfer
    • Weighted semantic similar region style transfer
    • Weighted local neighboring region style transfer
-2. Motion-based Floor Identification using XGBoost                                                2018
+2. Motion-based Floor Identification using XGBoost                                            2018
    An algorithm to identify floor in multi-story building accurately and quickly            
    • Wi-Fi-based floor identification using XGBoost
    • Combined Wi-Fi-based method and pressure-based method in hollow areas
    • Generated a motion detection of up and down stairs to reduce delay of identification
    • Achieved 98.83% accuracy which outperforms the state-of-arts works.
-3. [Safer Medicine](https://github.com/wuzixiaoer/MedKnower.git)                                  2016                                                     
+3. [Safer Medicine](https://github.com/wuzixiaoer/MedKnower)                                  2016                                                     
    An Android app for recognizing medicines’ names from pictures and giving safety reminders
    • Combined OCR with deeplearning4j to learn the feature of Chinese characters
    • Generated a character-tree for training the character recognition model
