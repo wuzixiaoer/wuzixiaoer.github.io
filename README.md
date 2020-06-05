@@ -1,5 +1,6 @@
 ## Biography
-![Image](http://ww4.sinaimg.cn/large/006tNc79ly1g5x6de3a4aj30hg0m8qog.jpg)
+![Image](https://tva1.sinaimg.cn/large/007S8ZIlly1gfhhs7jto9j30aa0bndgn.jpg)
+
 I am a second-year CS master student at Beijing University of Posts and Telecommunications (BUPT) and co-advised by Prof. [Haiyong Luo](http://people.ucas.ac.cn/~luohaiyong) and Prof. Fang Zhao.
 
 
@@ -11,7 +12,7 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
 
 
 ### Publications
-```markdown
+```
 1. Rongrong Wang, Haiyong Luo, Qu Wang, Zhaohui Li, Fang Zhao, Jingyu Huang. 
    A Spatial-Temporal positioning algorithm Using Residual Network and LSTM. 
    IEEE Transactions on Instrumentation and Measurement, 2020.
@@ -24,7 +25,7 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
 
 
 ### Projects
-```markdown
+```
 1. **[Efficient Deep Painterly Harmonization]**(https://github.com/wuzixiaoer/MuseBrush.git)          2019                    
    A WeChat Mini Program for painterly harmonization                                                               
    • Image matting
