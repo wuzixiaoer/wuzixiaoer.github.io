@@ -1,5 +1,5 @@
 ## Biography
-![Image](https://tva1.sinaimg.cn/small/007S8ZIlly1gfhhs7jto9j30aa0bndgn.jpg){:height="40%" width="30%"}
+![Image](https://tva1.sinaimg.cn/small/007S8ZIlly1gfhhs7jto9j30aa0bndgn.jpg){:height="30%" width="15%"}
 
 I am a second-year CS master student at Beijing University of Posts and Telecommunications (BUPT) and co-advised by Prof. [Haiyong Luo](http://people.ucas.ac.cn/~luohaiyong) and Prof. Fang Zhao.
 
@@ -26,7 +26,7 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
 
 ### Projects
 ```
-1. [Efficient Deep Painterly Harmonization](https://github.com/wuzixiaoer/MuseBrush)          2019                    
+1. Efficient Deep Painterly Harmonization                                                     2019                    
    A WeChat Mini Program for painterly harmonization                                                               
    • Image matting
    • An encoder self-attention decoder network to style transfer
@@ -38,7 +38,7 @@ I am a second-year CS master student at Beijing University of Posts and Telecomm
    • Combined Wi-Fi-based method and pressure-based method in hollow areas
    • Generated a motion detection of up and down stairs to reduce delay of identification
    • Achieved 98.83% accuracy which outperforms the state-of-arts works.
-3. [Safer Medicine](https://github.com/wuzixiaoer/MedKnower)                                  2016                                                     
+3. Safer Medicine                                                                             2016                                                     
    An Android app for recognizing medicines’ names from pictures and giving safety reminders
    • Combined OCR with deeplearning4j to learn the feature of Chinese characters
    • Generated a character-tree for training the character recognition model
